@@ -1,13 +1,13 @@
 import React from 'react'
 
 import './possibility.css';
-import possibilityImage from '../../assets/possibility.png'
+import possibilityImage from '../../assets/possibility.webp'
 
 const Possibility = () => {
     return (
         <div className='gpt3__possibility section__padding' id='possibility'>
             <div className="gpt3__possibility-image">
-                <img src={possibilityImage} alt="possibility" />
+                <img src={possibilityImage} alt="possibility" loading="lazy" decoding="async" />
             </div>
             <div className="gpt3__possibility-content">
                 <h4>Request Early Access to Get Started</h4>
