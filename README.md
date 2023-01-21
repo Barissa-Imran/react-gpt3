@@ -16,7 +16,7 @@ React GPT3
 - [License](#license)
 
 ## About The App
-This website showcases the capabilities and potential uses of AI, specifically GPT-3, while also demonstrating the developer's proficiency in using React. The site provides an overview of GPT-3's abilities and its potential impact on various industries. Additionally, the website serves as a valuable resource for anyone interested in learning about the cutting-edge technology of GPT-3 and its potential applications.
+This website showcases the capabilities and potential uses of AI, specifically GPT-3, while also demonstrating my proficiency in using React. The site provides an overview of GPT-3's abilities and its potential impact on various industries. Additionally, the website serves as a valuable resource for anyone interested in learning about the cutting-edge technology of GPT-3 and its potential applications.
 
 ## Screenshots
 
